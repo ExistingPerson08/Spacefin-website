@@ -1,7 +1,5 @@
----
-title: Markdown page example
----
+<div align="center">
+  <h1>Spacefin</h1>
+</div>
 
-# Markdown page example
 
-You don't need React to write simple standalone pages.
