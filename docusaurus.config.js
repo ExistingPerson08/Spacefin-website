@@ -74,7 +74,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: `https://github.com/${organizationName}/${projectName}`,
+            href: `https://github.com/ExistingPerson08/Spacefin`,
             label: "GitHub",
             position: "right",
           },
@@ -87,7 +87,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Introduction",
                 to: "/docs/intro",
               },
             ],
@@ -96,17 +96,9 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
+                label: "Github discussions",
+                href: "https://github.com/ExistingPerson08/Spacefin/discussions",
+              }
             ],
           },
           {
@@ -117,7 +109,7 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "GitHub",
+                label: "Source code",
                 href: `https://github.com/${organizationName}/${projectName}`,
               },
             ],
